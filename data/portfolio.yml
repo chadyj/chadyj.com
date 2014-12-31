@@ -47,6 +47,9 @@ portfolio:
       - kanon3.png
       - kanon4.png
       - kanon5.png
+    video:
+      - https://www.youtube.com/embed/wiWJ9E0C98o?rel=0&amp;showinfo=0
+      - https://www.youtube.com/embed/kOGKPz8SXNE?rel=0&amp;showinfo=0
     description:
   -
     title: Preplay Sports
