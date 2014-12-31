@@ -1,0 +1,136 @@
+portfolio:
+  -
+    title: Sellout
+    slug: sellout
+    image:
+      - sellout1.png
+      - sellout2.png
+      - sellout3.png
+      - sellout4.png
+      - sellout5.png
+    video:
+      - https://www.youtube.com/embed/ChauwzUXerw?rel=0&amp;showinfo=0
+    description:
+  -
+    title: Sendicate
+    slug: sendicate
+    image:
+      - sendicate.png
+      - sendicate2.png
+      - sendicate3.png
+    video:
+      - https://player.vimeo.com/video/52963791?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
+      - https://player.vimeo.com/video/104246876?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
+    description:
+  -
+    title: Hey Walkies
+    slug: heywalkies
+    image:
+      - heywalkies-app.png
+      - heywalkies-web.png
+    video:
+      - https://www.youtube.com/embed/0tmcNcTNzxA?rel=0&amp;showinfo=0
+    description:
+  -
+    title: Focus Forward Films
+    slug: focus-forward-films
+    image:
+      - focusforward1.png
+      - focusforward2.png
+    description:
+  -
+    title: Kanon Vodka
+    slug: kanon-vodka
+    image:
+      - kanon1.png
+      - kanon2.png
+      - kanon3.png
+      - kanon4.png
+      - kanon5.png
+    description:
+  -
+    title: Preplay Sports
+    slug: preplaysports
+    image:
+      - preplay1.png
+    video:
+      - https://www.youtube.com/embed/DkV0bTcqWKo?rel=0&amp;showinfo=0
+      - https://www.youtube.com/embed/0dboXHSfgZQ?rel=0&amp;showinfo=0
+    description:
+  -
+    title: Wearcast
+    slug: wearcast
+    image:
+      - wearcast-web.png
+    video:
+      - https://www.youtube.com/embed/CZSiDYX0FbI?rel=0&amp;showinfo=0
+    description:
+  -
+    title: Yvan Rodic
+    slug: yvan-rodic
+    image:
+      - yvanrodic1.png
+      - yvanrodic2.png
+      - yvanrodic3.png
+    video:
+      - https://player.vimeo.com/video/20084157?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
+      - https://player.vimeo.com/video/20081580?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
+    description:
+  -
+    title: Neverland Lost
+    slug: neverland-lost
+    image:
+      - neverlandlost1.png
+      - neverlandlost2.png
+    description:
+  -
+    title: Aleim Magazine
+    slug: aleim
+    image:
+      - aleim1.png
+      - aleim2.png
+    description:
+  -
+    title: Dana Lixenberg
+    slug: dana-lixenberg
+    image:
+      - danalixenberg1.png
+      - danalixenberg2.png
+    description:
+  -
+    title: Henry Leutwyler
+    slug: henry-leutwyler
+    image:
+      - henry1.png
+      - henry2.png
+    description: Photographer Henry Leutwyler
+  -
+    title: HSI Productions
+    slug: hsi-productions
+    image:
+      - hsi.png
+    description:
+  -
+    title: Airedale
+    slug: airedale
+    image:
+      - airedale.png
+    description:
+  -
+    title: Marlene Marino
+    slug: marlene-marino
+    image:
+      - marlenemarino.png
+    description:
+  -
+    title: In Fashion
+    slug: in-fashion
+    image:
+      - infashion.png
+    description: In Fashion
+  -
+    title: Lab Series
+    slug: lab-series
+    image:
+      - labseries.png
+    description:

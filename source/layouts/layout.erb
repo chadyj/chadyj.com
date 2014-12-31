@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <title><%= current_page.data.title || "Chad Jackson" %></title>
+    <%= stylesheet_link_tag "style"%>
+  </head>
+  <body class="<%= page_classes %>">
+    <header>
+      <h1><%= link_to 'Chad Jackson', '/' %></h1>
+      <nav>
+        <ul>
+          <li><%= link_to 'Work', '/work/' %></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section>
+      <%= yield %>
+    </section>
+
+
+    <footer>
+        <ul>
+          <li><%= link_to 'Twitter', 'http://twitter.com/chadyj' %></li>
+          <li> / </li>
+          <li><%= link_to 'Linkedin', 'http://www.linkedin.com/pub/chad-jackson/8/370/27' %></li>
+          <li> / </li>
+          <li><%= link_to 'Github', 'https://github.com/chadyj' %></li>
+        </ul>
+    </footer>
+
+  </body>
+</html>
