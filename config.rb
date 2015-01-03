@@ -59,9 +59,6 @@ data.portfolio.portfolio.each do |project|
   proxy "work/#{project.slug}.html", "work-detail.html", :locals => { :project => project }, :ignore => true
 end
 
-# Use relative URLs
-activate :relative_assets
-
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
