@@ -1,9 +1,10 @@
 source 'https://rubygems.org'
 
-gem "middleman", "~>3.3.7"
-gem "middleman-livereload", "~> 3.1.0"
-gem "middleman-deploy"
-gem "middleman-search_engine_sitemap"
+
+# Middleman Gems
+gem 'middleman', '>= 4.0.0'
+gem 'middleman-livereload'
+gem 'middleman-compass', '>= 4.0.0'
 
 gem "bourbon"
 gem "neat"
