@@ -18,17 +18,12 @@ page '/*.txt', layout: false
 #  which_fake_page: "Rendering a fake page with a local variable" }
 
 activate :directory_indexes
+set :relative_links, true
 
 
 data.portfolio.portfolio.each do |project|
   proxy "/work/#{project.slug}/index.html", "/work/work-detail.html", :locals => { :project => project }, :ignore => true
 end
-
-
-# General configuration
-
-set :relative_links, true
-
 
 
 # Reload the browser automatically whenever files change

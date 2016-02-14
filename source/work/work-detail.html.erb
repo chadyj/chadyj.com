@@ -4,7 +4,7 @@
 
 <% project['image'].each do |image| %>
   <ul class="portfolio-gallery">
-    <li><%= image_tag "work/#{image}" %></li>
+    <li><%= tag :img, :src => "../../images/work/#{image}" %></li>
   </ul>
 <% end %>
 
