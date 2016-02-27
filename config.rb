@@ -50,3 +50,8 @@ configure :build do
   activate :minify_javascript
 end
 
+# github project pages deploy
+activate :deploy do |deploy|
+  deploy.deploy_method = :git
+  deploy.build_before = true
+end
