@@ -15,9 +15,14 @@ portfolio:
     title: Sendicate
     slug: sendicate
     image:
-      - sendicate.png
+      - sendicate1.png
       - sendicate2.png
       - sendicate3.png
+      - sendicate4.png
+      - sendicate5.png
+      - sendicate6.png
+      - sendicate7.png
+      - sendicate8.png
     video:
       - https://player.vimeo.com/video/52963791?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
       - https://player.vimeo.com/video/104246876?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
@@ -35,8 +40,8 @@ portfolio:
     title: Focus Forward Films
     slug: focus-forward-films
     image:
-      - focusforward1.png
-      - focusforward2.png
+      - focusforward1.jpg
+      - focusforward2.jpg
     description:
   -
     title: Kanon Vodka
@@ -47,6 +52,8 @@ portfolio:
       - kanon3.png
       - kanon4.png
       - kanon5.png
+      - kanon6.jpg
+      - kanon7.jpg
     video:
       - https://www.youtube.com/embed/wiWJ9E0C98o?rel=0&amp;showinfo=0
       - https://www.youtube.com/embed/kOGKPz8SXNE?rel=0&amp;showinfo=0
@@ -80,11 +87,17 @@ portfolio:
       - https://player.vimeo.com/video/20081580?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
     description:
   -
+    title: Superfuture
+    slug: superfuture
+    image:
+      - superfuture1.png
+      - superfuture2.png
+    description:
+  -
     title: Neverland Lost
     slug: neverland-lost
     image:
       - neverlandlost1.png
-      - neverlandlost2.png
     description:
   -
     title: Aleim Magazine
@@ -106,6 +119,9 @@ portfolio:
     image:
       - henry1.png
       - henry2.png
+      - henry3.png
+      - henry4.png
+      - henry5.png
     description: Photographer Henry Leutwyler
   -
     title: HSI Productions
