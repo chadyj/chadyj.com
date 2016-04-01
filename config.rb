@@ -11,6 +11,8 @@ page '/*.txt', layout: false
 
 
 activate :directory_indexes
+activate :relative_assets
+activate :automatic_image_sizes
 set :relative_links, true
 
 

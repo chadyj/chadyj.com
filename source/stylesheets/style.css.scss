@@ -1,10 +1,12 @@
 @charset "utf-8";
 
-@import "bourbon";
+
 @import "variables";
+@import "bourbon";
+@import "grid-settings";
+@import "neat";
 @import "typography";
 
-$large-screen:  new-breakpoint(max-width 1000px 12);
 
 footer, nav {
   ul {
@@ -23,6 +25,7 @@ footer {
 
 section {
   margin:0;
+  @include outer-container;
 }
 
 body {
@@ -30,30 +33,45 @@ body {
 }
 
 header {
+  @include outer-container;
   margin-bottom:40px;
   nav, h1 {
     display: inline-block;
-  }
-  nav {
-    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
-body.index section {
-  height: 400px;
+article {
+  @include outer-container;
+  #work-description {
+    @include span-columns(3);
+    @include media($small-screen) {
+      @include span-columns(4);
+    }
+  }
+  #work-gallery {
+    @include span-columns(8);
+    @include shift(1);
+    @include media($small-screen) {
+      @include span-columns(4);
+      margin: 0;
+    }
+  }
+
 }
 
 .portfolio-gallery  {
   padding: 0;
+  margin-top:0;
   li {
     list-style-type: none;
     padding: 0;
+    margin-bottom:25px
   }
   img {
     width:100%;
     height:auto;
-    max-width: 1000px;
-    border: 1px solid #d3d3d3
+    border: 1px solid #d3d3d3;
   }
 }
 
