@@ -1,5 +1,23 @@
 portfolio:
   -
+    title: Squarespace Start
+    slug: squarepsace-start
+    image:
+      - squarespace-start1.png
+      - squarespace-start2.png
+    video:
+      - https://www.youtube.com/embed/sdU-wI0eDOU?rel=0&amp;showinfo=0
+    description: >
+                <p>
+                Squarespace Start is the easiest way to get started with a simple website right from your mobile phone.
+                Start helps you set up a coming soon page for a new business venture or an easy-to-manage personal site in seconds.
+                </p>
+                <p>
+                Start gives you access to Squarespace’s most popular single page layouts.
+                You can customize your background with your own image, write headlines and captions,
+                connect your social media accounts, and add call to action buttons.
+                </p>
+  -
     title: Sellout
     slug: sellout
     image:
