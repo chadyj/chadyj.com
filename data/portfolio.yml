@@ -1,5 +1,15 @@
 portfolio:
   -
+    title: Shopify
+    slug: shopify
+    image:
+      - shopify.png
+    description: >
+                <p>
+                Run your business wherever you are. Whether you have one or multiple Shopify stores,
+                this app makes it easy for you to manage your orders and products, connect with staff, and track sales. 
+                </p>
+  -
     title: Squarespace Start
     slug: squarepsace-start
     image:
@@ -45,7 +55,6 @@ portfolio:
       - sendicate5.png
       - sendicate6.png
       - sendicate7.png
-      - sendicate8.png
     video:
       - https://player.vimeo.com/video/52963791?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
       - https://player.vimeo.com/video/104246876?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
