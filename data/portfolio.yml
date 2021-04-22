@@ -1,5 +1,20 @@
 portfolio:
   -
+    title: Circular Docs
+    slug: circular-docs
+    image:
+      - circular1.png
+      - circular2.png
+      - circular3.png
+      - circular4.png
+      - circular5.png
+    description: >
+                <p>
+                Circular Docs takes a folder of Google Docs and creates a knowledge base. 
+                Perfect for anyone using Google Docs that wants to publish collections of content to the web. 
+                New changes are published automatically so the site is always up to date.
+                </p>
+  -
     title: Status
     slug: status
     image:
@@ -108,55 +123,55 @@ portfolio:
                 Hey Walkies also taps into Facebook, bringing the world's largest social network to the people and pups that use our site.
                 </p>
                 <p>Apple loves Hey Walkies so much that they decided to feature it in their "Dog Lovers" TV commercial.</p>
-  -
-    title: Focus Forward Films
-    slug: focus-forward-films
-    image:
-      - focusforward1.jpg
-      - focusforward2.jpg
-    description: >
-                <p>
-                Focus Forward Films is an award-winning series of 30 three-minute stories about innovators –
-                people who are reshaping the world through act or invention – directed by the world's most celebrated documentary filmmakers.
-                The films have been viewed in 150 countries and screened to audiences on all seven continents.
-                </p>
-  -
-    title: Kanon Vodka
-    slug: kanon-vodka
-    image:
-      - kanon1.png
-      - kanon2.png
-      - kanon3.png
-      - kanon4.png
-      - kanon5.png
-      - kanon6.jpg
-      - kanon7.jpg
-    video:
-      - https://www.youtube.com/embed/wiWJ9E0C98o?rel=0&amp;showinfo=0
-      - https://www.youtube.com/embed/kOGKPz8SXNE?rel=0&amp;showinfo=0
-    description: >
-                <p>
-                Kanon Organic Vodka is Sweden's first organic vodka, produced at Gripsholm Distillery in Åkers Styckebruk, Sweden.
-                The distillery dates back to 1580, when they started distilling alcohol for the local workers of the cannon manufacturing plant nearby.
-                Today Kanon Organic Vodka is produced from locally grown organic wheat, grown without pesticides or chemical fertilizers.
-                </p>
-  -
-    title: Preplay Sports
-    slug: preplaysports
-    image:
-      - preplay1.png
-    video:
-      - https://www.youtube.com/embed/DkV0bTcqWKo?rel=0&amp;showinfo=0
-      - https://www.youtube.com/embed/0dboXHSfgZQ?rel=0&amp;showinfo=0
-    description: >
-                <p>
-                Test your sports IQ by making predictions during real-life MLB and professional football games.
-                You think you know what’s going to happen next? Prove it!
-                PrePlay lets you predict every at bat and play of every MLB and professional football game,
-                respectively, and compete against our user base to see who truly knows the most.
-                Compete with friends to see who knows the most!
-                PrePlay is completely free to play, and you'll earn in-game items as you play more.
-                </p>
+  # -
+  #   title: Focus Forward Films
+  #   slug: focus-forward-films
+  #   image:
+  #     - focusforward1.jpg
+  #     - focusforward2.jpg
+  #   description: >
+  #               <p>
+  #               Focus Forward Films is an award-winning series of 30 three-minute stories about innovators –
+  #               people who are reshaping the world through act or invention – directed by the world's most celebrated documentary filmmakers.
+  #               The films have been viewed in 150 countries and screened to audiences on all seven continents.
+  #               </p>
+  # -
+  #   title: Kanon Vodka
+  #   slug: kanon-vodka
+  #   image:
+  #     - kanon1.png
+  #     - kanon2.png
+  #     - kanon3.png
+  #     - kanon4.png
+  #     - kanon5.png
+  #     - kanon6.jpg
+  #     - kanon7.jpg
+  #   video:
+  #     - https://www.youtube.com/embed/wiWJ9E0C98o?rel=0&amp;showinfo=0
+  #     - https://www.youtube.com/embed/kOGKPz8SXNE?rel=0&amp;showinfo=0
+  #   description: >
+  #               <p>
+  #               Kanon Organic Vodka is Sweden's first organic vodka, produced at Gripsholm Distillery in Åkers Styckebruk, Sweden.
+  #               The distillery dates back to 1580, when they started distilling alcohol for the local workers of the cannon manufacturing plant nearby.
+  #               Today Kanon Organic Vodka is produced from locally grown organic wheat, grown without pesticides or chemical fertilizers.
+  #               </p>
+  # -
+  #   title: Preplay Sports
+  #   slug: preplaysports
+  #   image:
+  #     - preplay1.png
+  #   video:
+  #     - https://www.youtube.com/embed/DkV0bTcqWKo?rel=0&amp;showinfo=0
+  #     - https://www.youtube.com/embed/0dboXHSfgZQ?rel=0&amp;showinfo=0
+  #   description: >
+  #               <p>
+  #               Test your sports IQ by making predictions during real-life MLB and professional football games.
+  #               You think you know what’s going to happen next? Prove it!
+  #               PrePlay lets you predict every at bat and play of every MLB and professional football game,
+  #               respectively, and compete against our user base to see who truly knows the most.
+  #               Compete with friends to see who knows the most!
+  #               PrePlay is completely free to play, and you'll earn in-game items as you play more.
+  #               </p>
   -
     title: Wearcast
     slug: wearcast
@@ -170,23 +185,23 @@ portfolio:
                 Our proprietary meteorologist-developed algorithm combines temperature, wind chill, humidity, and precipitation forecasts into your own wardrobe recommendation.
                 5 day forecasts around the world: We make packing for your trip easy.
                 </p>
-  -
-    title: Yvan Rodic
-    slug: yvan-rodic
-    image:
-      - yvanrodic1.png
-      - yvanrodic2.png
-      - yvanrodic3.png
-    video:
-      - https://player.vimeo.com/video/20084157?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
-      - https://player.vimeo.com/video/20081580?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
-    description: >
-                <p>
-                Yvan Rodic also known as FaceHunter, is a Swiss street style-photographer who travels the world
-                photographing people at cultural events and fashion events. In February 2006, he began posting the results online
-                and since then he's contributed to brands like Armani, Esprit and Volvo.
-                He published two books FaceHunter (2010) and A Year in The Life of FaceHunter (2013).
-                </p>
+  # -
+  #   title: Yvan Rodic
+  #   slug: yvan-rodic
+  #   image:
+  #     - yvanrodic1.png
+  #     - yvanrodic2.png
+  #     - yvanrodic3.png
+  #   video:
+  #     - https://player.vimeo.com/video/20084157?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
+  #     - https://player.vimeo.com/video/20081580?title=0&amp;byline=0&amp;portrait=0&amp;color=c9ff23
+  #   description: >
+  #               <p>
+  #               Yvan Rodic also known as FaceHunter, is a Swiss street style-photographer who travels the world
+  #               photographing people at cultural events and fashion events. In February 2006, he began posting the results online
+  #               and since then he's contributed to brands like Armani, Esprit and Volvo.
+  #               He published two books FaceHunter (2010) and A Year in The Life of FaceHunter (2013).
+  #               </p>
   -
     title: Superfuture
     slug: superfuture
@@ -199,139 +214,139 @@ portfolio:
                 Known for urban cartography for global shopping experts, the site features ver 10,000 listings, reviews, and details maps in over 280 cities,
                 as well as concierge services, cartography, hotel bookings and more. Also home to Supertalk, the endlessly expanding public community with around 65,000 members and over 3 million posts.
                 </p>
-  -
-    title: Neverland Lost
-    slug: neverland-lost
-    image:
-      - neverlandlost1.png
-      - neverlandlost2.jpg
-      - neverlandlost3.jpg
-      - neverlandlost4.jpg
-    description: >
-                <p>
-                Neverland Lost presents Henry Leutwyler's record of the contents of the late
-                Michael Jackson's famous Peter Pan paradise at the Neverland Ranch,
-                in Santa Barbara, California. Leutwyler gained privileged access to Jackson's
-                possessions when they were due to be auctioned off (but were eventually withdrawn),
-                shortly before Jackson's death on June 25, 2009.
-                Creating incredible taxonomies of Jackson's huge array of possessions,
-                as they were briefly exhibited at the Ranch, Leutwyler subjects these
-                items to a degree of scrutiny that makes the viewer feel she or he
-                could slip on one of those iconic spangly gloves. It is of course
-                Jackson's performance accessories-the accessories by which he was
-                instantly identifiable to all, such as the gloves,
-                the hats and shoes-that leap out of this fascinating volume.
-                Laying bare the components and props of the Michael Jackson myth,
-                these photographs create a strange and fantastical visual story
-                of "The Boy Who Wouldn't Grow Up," at the moment he was forced to leave Neverland.
-                </p>
-  -
-    title: Aleim Magazine
-    slug: aleim
-    image:
-      - aleim1.png
-      - aleim2.png
-    description: >
-                <p>
-                Aleim Magazine is designed as an interview source for the photographic,
-                cinematic and creative personalities of our time.
-                The magazine works with award-winning writers, photographers and videographers
-                to capture these personalities in their most honest and unfiltered environments.
-                </p>
-  -
-    title: Dana Lixenberg
-    slug: dana-lixenberg
-    image:
-      - danalixenberg1.png
-      - danalixenberg2.png
-    description: >
-                <p>
-                Splitting her time between New York and Amsterdam, London-trained photographer Dana Lixenberg is known for her stripped-down,
-                candid style of portraiture––but it’s her recent still lifes that have been gaining momentum.
-                “I treat still lifes as portraits—it’s a different process, clearly, but my approach remains the same,” she says.
-                Lixenberg’s lauded no-gimmick, in-the-moment method has led to commissions by the likes of the New York Times Magazine,
-                The New Yorker and Newsweek.
-                </p>
-  -
-    title: Henry Leutwyler
-    slug: henry-leutwyler
-    image:
-      - henry1.png
-      - henry2.png
-      - henry3.png
-      - henry4.png
-      - henry5.png
-    description: >
-                <p>
-                Born in Switzerland in 1961, Leutwyler is a self-taught photographer with a stubborn streak and unflappable love for the medium.
-                “My grandfather and father were both printers. I decided not to follow their path,
-                instead to travel and photograph, soaking up color and culture from around the world.
-                </p>
-                <p>
-                Today, Leutwyler’s celebrity portraits can be found in the pages of Vogue,
-                Vanity Fair, the New York Times Magazine, The New Yorker, Esquire Magazine and Time.
-                He has photographed the likes of Michelle Obama, Julia Roberts, Tom Wolfe, Iggy Pop,
-                Rihanna and Martin Scorsese to name a few.
-                </p>
-  -
-    title: HSI Productions
-    slug: hsi-productions
-    image:
-      - hsi.png
-    description: >
-                <p>
-                HSI Productions is one of the largest music video and television commercial production companies in the world.
-                The company has been recognized with numerous awards, including Grammys, MTV Video Music Awards,
-                Clios and the Cannes Festival's Golden Lion. Lenny Kravitz, Eminem,
-                Outkast and Christina Aguilera have all put out HSI- produced videos,
-                and the firm's advertising clients include Mercedes- Benz, Coca-Cola, adidas and Gap.
-                HSI also produces full-length feature films; recent productions include Rize, with director David LaChapelle.
-                </p>
-  -
-    title: Airedale
-    slug: airedale
-    image:
-      - airedale.png
-      - airedale2.jpg
-    description: >
-                <p>
-                Airedale (named after the scrappy, hard-working English terrier)
-                takes an unfussy approach to the classic elements of every man's wardrobe.
-                Think: striped tees, trim cargo pants, perfectly fitted polos,
-                and smart jackets to live in when the temps dip down. And they haven't shaken that technical approach entirely either.
-                </p>
-  -
-    title: Marlene Marino
-    slug: marlene-marino
-    image:
-      - marlenemarino.png
-    description: >
-                <p>
-                Marlene Marino is known for her natural, often nude, portraits of women.
-                Shot in the bedrooms, kitchens and living rooms of her models,
-                these images are filled with a beauty and intimacy that is universal, no matter their locale.
-                </p>
-  -
-    title: In Fashion
-    slug: in-fashion
-    image:
-      - infashion.png
-    description: >
-                <p>
-                The most comprehensive guide available for a notoriously competitive industry,
-                In Fashion exposes all of its seams, with plenty of details on what it's like to
-                work at dozens of of elite and cutting-edge companies. Whether you're just getting
-                started or are considering a career switch,
-                In Fashion offers all the resources you need to land your dream job in fashion.
-                </p>
-  -
-    title: Lab Series
-    slug: lab-series
-    image:
-      - labseries.png
-    description: >
-                <p>
-                Lab Series Skincare for Men was first introduced by The Estée Lauder Companies Inc. in 1987.
-                For over 25 years, the brand’s elite team of scientists, researchers and skincare specialists use modern technology,
-                advanced ingredients and the latest research on men’s physiological and lifestyle needs to develop products with proven results.
-                </p>
+  # -
+  #   title: Neverland Lost
+  #   slug: neverland-lost
+  #   image:
+  #     - neverlandlost1.png
+  #     - neverlandlost2.jpg
+  #     - neverlandlost3.jpg
+  #     - neverlandlost4.jpg
+  #   description: >
+  #               <p>
+  #               Neverland Lost presents Henry Leutwyler's record of the contents of the late
+  #               Michael Jackson's famous Peter Pan paradise at the Neverland Ranch,
+  #               in Santa Barbara, California. Leutwyler gained privileged access to Jackson's
+  #               possessions when they were due to be auctioned off (but were eventually withdrawn),
+  #               shortly before Jackson's death on June 25, 2009.
+  #               Creating incredible taxonomies of Jackson's huge array of possessions,
+  #               as they were briefly exhibited at the Ranch, Leutwyler subjects these
+  #               items to a degree of scrutiny that makes the viewer feel she or he
+  #               could slip on one of those iconic spangly gloves. It is of course
+  #               Jackson's performance accessories-the accessories by which he was
+  #               instantly identifiable to all, such as the gloves,
+  #               the hats and shoes-that leap out of this fascinating volume.
+  #               Laying bare the components and props of the Michael Jackson myth,
+  #               these photographs create a strange and fantastical visual story
+  #               of "The Boy Who Wouldn't Grow Up," at the moment he was forced to leave Neverland.
+  #               </p>
+  # -
+  #   title: Aleim Magazine
+  #   slug: aleim
+  #   image:
+  #     - aleim1.png
+  #     - aleim2.png
+  #   description: >
+  #               <p>
+  #               Aleim Magazine is designed as an interview source for the photographic,
+  #               cinematic and creative personalities of our time.
+  #               The magazine works with award-winning writers, photographers and videographers
+  #               to capture these personalities in their most honest and unfiltered environments.
+  #               </p>
+  # -
+  #   title: Dana Lixenberg
+  #   slug: dana-lixenberg
+  #   image:
+  #     - danalixenberg1.png
+  #     - danalixenberg2.png
+  #   description: >
+  #               <p>
+  #               Splitting her time between New York and Amsterdam, London-trained photographer Dana Lixenberg is known for her stripped-down,
+  #               candid style of portraiture––but it’s her recent still lifes that have been gaining momentum.
+  #               “I treat still lifes as portraits—it’s a different process, clearly, but my approach remains the same,” she says.
+  #               Lixenberg’s lauded no-gimmick, in-the-moment method has led to commissions by the likes of the New York Times Magazine,
+  #               The New Yorker and Newsweek.
+  #               </p>
+  # -
+  #   title: Henry Leutwyler
+  #   slug: henry-leutwyler
+  #   image:
+  #     - henry1.png
+  #     - henry2.png
+  #     - henry3.png
+  #     - henry4.png
+  #     - henry5.png
+  #   description: >
+  #               <p>
+  #               Born in Switzerland in 1961, Leutwyler is a self-taught photographer with a stubborn streak and unflappable love for the medium.
+  #               “My grandfather and father were both printers. I decided not to follow their path,
+  #               instead to travel and photograph, soaking up color and culture from around the world.
+  #               </p>
+  #               <p>
+  #               Today, Leutwyler’s celebrity portraits can be found in the pages of Vogue,
+  #               Vanity Fair, the New York Times Magazine, The New Yorker, Esquire Magazine and Time.
+  #               He has photographed the likes of Michelle Obama, Julia Roberts, Tom Wolfe, Iggy Pop,
+  #               Rihanna and Martin Scorsese to name a few.
+  #               </p>
+  # -
+  #   title: HSI Productions
+  #   slug: hsi-productions
+  #   image:
+  #     - hsi.png
+  #   description: >
+  #               <p>
+  #               HSI Productions is one of the largest music video and television commercial production companies in the world.
+  #               The company has been recognized with numerous awards, including Grammys, MTV Video Music Awards,
+  #               Clios and the Cannes Festival's Golden Lion. Lenny Kravitz, Eminem,
+  #               Outkast and Christina Aguilera have all put out HSI- produced videos,
+  #               and the firm's advertising clients include Mercedes- Benz, Coca-Cola, adidas and Gap.
+  #               HSI also produces full-length feature films; recent productions include Rize, with director David LaChapelle.
+  #               </p>
+  # -
+  #   title: Airedale
+  #   slug: airedale
+  #   image:
+  #     - airedale.png
+  #     - airedale2.jpg
+  #   description: >
+  #               <p>
+  #               Airedale (named after the scrappy, hard-working English terrier)
+  #               takes an unfussy approach to the classic elements of every man's wardrobe.
+  #               Think: striped tees, trim cargo pants, perfectly fitted polos,
+  #               and smart jackets to live in when the temps dip down. And they haven't shaken that technical approach entirely either.
+  #               </p>
+  # -
+  #   title: Marlene Marino
+  #   slug: marlene-marino
+  #   image:
+  #     - marlenemarino.png
+  #   description: >
+  #               <p>
+  #               Marlene Marino is known for her natural, often nude, portraits of women.
+  #               Shot in the bedrooms, kitchens and living rooms of her models,
+  #               these images are filled with a beauty and intimacy that is universal, no matter their locale.
+  #               </p>
+  # -
+  #   title: In Fashion
+  #   slug: in-fashion
+  #   image:
+  #     - infashion.png
+  #   description: >
+  #               <p>
+  #               The most comprehensive guide available for a notoriously competitive industry,
+  #               In Fashion exposes all of its seams, with plenty of details on what it's like to
+  #               work at dozens of of elite and cutting-edge companies. Whether you're just getting
+  #               started or are considering a career switch,
+  #               In Fashion offers all the resources you need to land your dream job in fashion.
+  #               </p>
+  # -
+  #   title: Lab Series
+  #   slug: lab-series
+  #   image:
+  #     - labseries.png
+  #   description: >
+  #               <p>
+  #               Lab Series Skincare for Men was first introduced by The Estée Lauder Companies Inc. in 1987.
+  #               For over 25 years, the brand’s elite team of scientists, researchers and skincare specialists use modern technology,
+  #               advanced ingredients and the latest research on men’s physiological and lifestyle needs to develop products with proven results.
+  #               </p>
